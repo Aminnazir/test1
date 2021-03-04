@@ -1,3 +1,3 @@
 # Thoughts about the code
 
-it is am amazing code completely understandable and reusable method
+it is a amazing code completely understandable and reusable method
